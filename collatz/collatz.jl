@@ -12,4 +12,4 @@ function typed_flat_collantz(b::Int64)::Tuple{Int64,Int64}
     end
     ms
 end
-print(max_collantz_speed(1,100))
+print(max_collantz_speed(1,100000000))
