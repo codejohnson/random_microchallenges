@@ -1,0 +1,8 @@
+>WP_148220265.1 hypothetical protein [Nostoc punctiforme] [density=144.34]
+MRTLNQQMRTLNQQMRTLYQQMRTPNQQMRTLYQQMRTPNQQMRTLNQQMRTLYQQMRTPK
+>WP_004457183.1 hypothetical protein [Clostridium perfringens] [density=143.96]
+MDINPIEVQFFTERDYIFNMWLHKYVYKYKDNSIGIKLRELYDKNIIMIEEDFKEEFNKCIIY
+>YP_010051183.1 protein YnaN [Escherichia coli str. K-12 substr. MG1655] [density=149.65]
+MLRNRARRLDYKIMR
+>lcl|NZ_CP014991.1_prot_WP_197456927.1_1470 [locus_tag=A3217_RS09230] [protein=hypothetical protein] [protein_id=WP_197456927.1] [location=complement(1558211..1558327)] [gbkey=CDS] [density=144.21]
+MPQYQRPYHWGTKEREDLWDDIIRVFDNRNSENLKNTF
